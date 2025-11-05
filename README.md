@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm IRORERE Juliet</h1>
 <h3 align="left">🚀 About Me</h3>
 
-Aspiring front-end developer with a passion for building interactive and user-friendly web applications. Currently deepening my expertise in React, Tailwind CSS, and Supabase, with a strong focus on creating scalable and maintainable projects. I enjoy combining creativity with problem-solving to deliver high-quality code and intuitive user experiences.  
+Frontend developer specializing in building interactive, responsive, and scalable web applications. Experienced with React, Tailwind CSS, and Supabase, with a strong focus on clean, maintainable code and intuitive user experiences.  
 
 Open to freelance, remote, or contract opportunities—let’s create something impactful together! 😊
 
@@ -19,8 +19,8 @@ Open to freelance, remote, or contract opportunities—let’s create something 
 ### 💡 What I Bring
 - Hands-on experience building interactive web apps and clones like Instagram and Starlink  
 - Strong understanding of frontend best practices and responsive design  
-- Passion for learning new technologies and applying them to real-world projects  
-- Dedication to clean, maintainable code and scalable solutions  
+- Skilled in writing clean, maintainable, and scalable code  
+- Passion for staying updated with modern web technologies and best practices  
 
 ---
 
